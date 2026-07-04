@@ -54,3 +54,13 @@ I specialize in building deep integrations (E-commerce, CRMs, Payment Routers) a
 *   📍 **Location:** Ahmedabad, Gujarat, India
 
 *Thank you for visiting my profile! Feel free to explore my repositories or reach out for collaboration on architecture, SaaS development, or AI automation.*
+
+## Commit History [commit-history.com]
+<div align="center">
+  <a href="https://commit-history.com/ThakkarSandeep">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ThakkarSandeep?theme=dark" />
+      <img alt="ThakkarSandeep's commit history" src="https://commit-history.com/embed/ThakkarSandeep" />
+    </picture>
+  </a>
+</div>
