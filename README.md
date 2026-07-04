@@ -55,7 +55,7 @@ I specialize in building deep integrations (E-commerce, CRMs, Payment Routers) a
 
 *Thank you for visiting my profile! Feel free to explore my repositories or reach out for collaboration on architecture, SaaS development, or AI automation.*
 
-## Commit History [commit-history.com]
+## Commit History [https://commit-history.com/ThakkarSandeep]
 <div align="center">
   <a href="https://commit-history.com/ThakkarSandeep">
     <picture>
